@@ -1,7 +1,11 @@
 # Robofriends
 
-To run this project:
+#### To run this project:
 
 1. Clone this repo
 2. Run npm install
 3. Run npm start
+
+#### Resources used:
+* [Robohash](robohash.org)
+* [json api](jsonplaceholder.typicode.com/users)
